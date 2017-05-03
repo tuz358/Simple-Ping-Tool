@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/preference_material.xml",
+        "source": "/Users/tuz/.android/build-cache/3c0064d44e2ee3837de61edbdec22ee89e62e5f6/output/res/layout/preference_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/history_fragment_layout.xml",
+        "source": "/Users/tuz/AndroidStudioProjects/SimplePing/app/src/main/res/layout/history_fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/settings_fragment_layout.xml",
+        "source": "/Users/tuz/AndroidStudioProjects/SimplePing/app/src/main/res/layout/settings_fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/preference_recyclerview.xml",
+        "source": "/Users/tuz/.android/build-cache/5c4d85b2ccd3912c11c44734f03c65c75757d788/output/res/layout/preference_recyclerview.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/preference_information.xml",
+        "source": "/Users/tuz/.android/build-cache/5c4d85b2ccd3912c11c44734f03c65c75757d788/output/res/layout/preference_information.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/preference_dialog_edittext.xml",
+        "source": "/Users/tuz/.android/build-cache/5c4d85b2ccd3912c11c44734f03c65c75757d788/output/res/layout/preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/notification_template_custom_big.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/preference_widget_switch.xml",
+        "source": "/Users/tuz/.android/build-cache/3c0064d44e2ee3837de61edbdec22ee89e62e5f6/output/res/layout/preference_widget_switch.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/preference_widget_switch_compat.xml",
+        "source": "/Users/tuz/.android/build-cache/5c4d85b2ccd3912c11c44734f03c65c75757d788/output/res/layout/preference_widget_switch_compat.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/home_fragment_layout.xml",
+        "source": "/Users/tuz/AndroidStudioProjects/SimplePing/app/src/main/res/layout/home_fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/preference_widget_seekbar.xml",
+        "source": "/Users/tuz/.android/build-cache/5c4d85b2ccd3912c11c44734f03c65c75757d788/output/res/layout/preference_widget_seekbar.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/preference_dropdown_material.xml",
+        "source": "/Users/tuz/.android/build-cache/3c0064d44e2ee3837de61edbdec22ee89e62e5f6/output/res/layout/preference_dropdown_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/preference_category.xml",
+        "source": "/Users/tuz/.android/build-cache/5c4d85b2ccd3912c11c44734f03c65c75757d788/output/res/layout/preference_category.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/preference_category_material.xml",
+        "source": "/Users/tuz/.android/build-cache/3c0064d44e2ee3837de61edbdec22ee89e62e5f6/output/res/layout/preference_category_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/preference_information_material.xml",
+        "source": "/Users/tuz/.android/build-cache/3c0064d44e2ee3837de61edbdec22ee89e62e5f6/output/res/layout/preference_information_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/preference_widget_checkbox.xml",
+        "source": "/Users/tuz/.android/build-cache/5c4d85b2ccd3912c11c44734f03c65c75757d788/output/res/layout/preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/preference_list_fragment.xml",
+        "source": "/Users/tuz/.android/build-cache/5c4d85b2ccd3912c11c44734f03c65c75757d788/output/res/layout/preference_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/history_node_layout.xml",
+        "source": "/Users/tuz/AndroidStudioProjects/SimplePing/app/src/main/res/layout/history_node_layout.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/Users/tuz/AndroidStudioProjects/SimplePing/app/src/main/res/layout/activity_main.xml"
+    }
+]

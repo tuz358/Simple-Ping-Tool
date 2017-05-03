@@ -1,0 +1,7 @@
+#Sat Mar 18 12:31:41 JST 2017
+base.0=/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_09a89384607c70b715dee6daa51d8718940f2046
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f4a0c44ec75c1e4c968b87bdd6fecb4e987e30fe/classes.dex
+base.1=/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f4a0c44ec75c1e4c968b87bdd6fecb4e987e30fe
+file.0=/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_09a89384607c70b715dee6daa51d8718940f2046/classes.dex

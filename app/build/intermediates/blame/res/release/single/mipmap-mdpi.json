@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/tuz/AndroidStudioProjects/SimplePing/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/tuz/AndroidStudioProjects/SimplePing/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

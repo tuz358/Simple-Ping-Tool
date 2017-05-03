@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout-v17/preference_dropdown_material.xml",
+        "source": "/Users/tuz/.android/build-cache/3c0064d44e2ee3837de61edbdec22ee89e62e5f6/output/res/layout-v17/preference_dropdown_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout-v17/preference_material.xml",
+        "source": "/Users/tuz/.android/build-cache/3c0064d44e2ee3837de61edbdec22ee89e62e5f6/output/res/layout-v17/preference_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout-v17/preference_information_material.xml",
+        "source": "/Users/tuz/.android/build-cache/3c0064d44e2ee3837de61edbdec22ee89e62e5f6/output/res/layout-v17/preference_information_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/release/layout-v17/preference_category_material.xml",
+        "source": "/Users/tuz/.android/build-cache/3c0064d44e2ee3837de61edbdec22ee89e62e5f6/output/res/layout-v17/preference_category_material.xml"
+    }
+]

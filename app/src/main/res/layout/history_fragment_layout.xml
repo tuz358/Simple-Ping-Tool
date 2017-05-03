@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#222222"
+        android:orientation="horizontal"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="24dp"
+            android:layout_height="48dp"
+            android:layout_marginLeft="15dp"
+            android:padding="5dp"
+            app:srcCompat="@drawable/circle_green64" />
+
+        <TextView
+            android:id="@+id/txt_history_explain"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_marginEnd="15dp"
+            android:gravity="center_vertical"
+            android:text=": Reached"
+            android:textSize="16sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="24dp"
+            android:layout_height="48dp"
+            android:padding="5dp"
+            app:srcCompat="@drawable/circle_red64" />
+
+        <TextView
+            android:id="@+id/txt_history_explain2"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:gravity="center_vertical"
+            android:text=": Unreached"
+            android:textSize="16sp"
+            android:textStyle="bold|italic" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/imgbtnCancel"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:background="#222222"
+                android:padding="15dp"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/clear64"
+                android:layout_alignParentTop="true"
+                android:layout_toLeftOf="@+id/imgbtnTrash"
+                android:layout_toStartOf="@+id/imgbtnTrash" />
+
+            <ImageButton
+                android:id="@+id/imgbtnTrash"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_gravity="right"
+                android:background="#222222"
+                android:padding="10dp"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/rubbish64"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/historyListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linearLayout2"
+        android:background="@drawable/list_selector"
+        android:choiceMode="none"
+        android:clickable="true" />
+
+</RelativeLayout>

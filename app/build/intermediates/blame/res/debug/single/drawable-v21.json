@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/debug/drawable-v21/preference_list_divider_material.xml",
+        "source": "/Users/tuz/.android/build-cache/3c0064d44e2ee3837de61edbdec22ee89e62e5f6/output/res/drawable-v21/preference_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/tuz/AndroidStudioProjects/SimplePing/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/tuz/.android/build-cache/2aaecd9636b08f999193647db54f66d172ba2fd5/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

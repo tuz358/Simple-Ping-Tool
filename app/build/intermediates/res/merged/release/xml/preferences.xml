@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Ping option" >
+        <EditTextPreference
+            android:key="default_host"
+            android:title="Default Host"
+            android:defaultValue="localhost"
+            />
+        <ListPreference
+            android:key="ping_count"
+            android:title="Ping count"
+            android:entries="@array/entries_ping_count_preferences"
+            android:entryValues="@array/entryvalues_ping_count_preferences"
+            android:dialogTitle="Ping count"
+            android:defaultValue="5"
+            />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="History" >
+        <ListPreference
+            android:key="history_save_number"
+            android:title="Save number"
+            android:entries="@array/entries_history_count_preferences"
+            android:entryValues="@array/entryvalues_history_count_preferences"
+            android:defaultValue="10"
+            />
+    </PreferenceCategory>
+
+</PreferenceScreen>

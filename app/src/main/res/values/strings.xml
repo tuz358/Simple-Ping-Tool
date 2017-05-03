@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Ping Tool</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="history_file_name">history.csv</string>
+    <string name="banner_ad_unit_id">ca-app-pub-your-ad-unit-id</string>
+</resources>
